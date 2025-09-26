@@ -1,0 +1,14 @@
+.item{
+    text-size-adjust: 30px;
+    text-decoration-color: red;
+    color: red;
+
+}
+form{
+    width: 500px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px;
+    border-radius: 10px;
+
+}
